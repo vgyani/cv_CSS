@@ -130,13 +130,13 @@ p {
   font-weight: bold;
   font-size: 1.1rem;
   position: relative;
-  top: 2.5rem;
-  margin: auto 1.5rem;
+  top: 4rem;
+  margin: auto 1rem;
 }
 
 .last-line {
   margin-bottom: 0;
   color: #EAF6F6;
   position: relative;
-  top: 4rem;
+  top: 3.5rem;
 }
