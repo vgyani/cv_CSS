@@ -134,6 +134,10 @@ p {
   margin: auto 1rem;
 }
 
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
 .last-line {
   margin-bottom: 0;
   color: #EAF6F6;
